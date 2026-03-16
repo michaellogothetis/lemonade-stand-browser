@@ -11,7 +11,7 @@ _This port was done by [Claude](claude.ai) using the Sonnet 4.6 LLM._
 
 ## 🕹️ Play It
 
-Just open [lemonade_stand.html](lemonade_stand.html) in your browser. That's it.
+Just open [lemonade_stand.html](https://michaellogothetis.github.io/lemonade-stand-browser/index.html)) in your browser. That's it.
 
 - Clone or download the repo
 - Double-click `lemonade_stand.html`
@@ -126,7 +126,9 @@ There are no external dependencies, build steps, or frameworks. The HTML file in
 
 ---
 
-## 📜 Original Source
+## 📜 Original and Source
+
+The original Applesoft Game and disk image is available at the [Internet Archive](https://archive.org/details/a2_Lemonade_Stand_1979_Apple).
 
 The original Applesoft BASIC source used in this port is available here:
 
